@@ -1,6 +1,6 @@
 # CardGen Pro BOT
 
-![CardGen Pro BOT Logo](https://raw.githubusercontent.com/mat1520/Credit-Cart-Gen-Luhn/main/telegram-bot/OFFICIALT.png)
+![CardGen Pro BOT Logo](https://raw.githubusercontent.com/Spawner-id/Credit-Cart-Gen-Luhn/refs/heads/main/telegram-bot/1748122517953.jpg)
 
 ## 🧪 What is CardGen Pro BOT?
 CardGen Pro BOT is a virtual lab for card generation, BIN analysis, and OSINT tools, designed for cybersecurity enthusiasts, pentesters, and developers. Generate valid cards, analyze BINs, manage favorites, and automate antifraud testing—all from Telegram, with a modern visual menu and flexible commands.
@@ -8,7 +8,7 @@ CardGen Pro BOT is a virtual lab for card generation, BIN analysis, and OSINT to
 ---
 
 ## 📚 Table of Contents
-- [Features](#features)
+- [Fe
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
@@ -36,7 +36,7 @@ CardGen Pro BOT is a virtual lab for card generation, BIN analysis, and OSINT to
 ## ⚙️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mat1520/Credit-Cart-Gen-Luhn.git
+   git clone https://github.com/Spawner-id/Credit-Cart-Gen-Luhn.git
    cd Credit-Cart-Gen-Luhn/telegram-bot
    ```
 2. Install dependencies:
