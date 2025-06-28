@@ -11,7 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Configuración
-const BOT_TOKEN = '7916820433:AAF3MB2Aw_sZWif1N4AxLZwRzEGolcRoVzg';
+const BOT_TOKEN = '7475124558:AAH0AeS_swernRsuiE46ZlEAmGK_mYQs548';
 const bot = new Telegraf(BOT_TOKEN);
 
 // Rate limiting and command debouncing
@@ -485,7 +485,7 @@ bot.on('text', async (ctx, next) => {
 });
 
 // URL RAW de la imagen oficial OFFICIALT.png en GitHub
-const HACKER_IMG_URL = 'https://raw.githubusercontent.com/mat1520/Credit-Cart-Gen-Luhn/main/telegram-bot/OFFICIALT.png';
+const HACKER_IMG_URL = 'https://raw.githubusercontent.com/Spawner-id/Credit-Cart-Gen-Luhn/refs/heads/main/telegram-bot/1748122517953.jpg';
 
 const toolsBlock = `🛠 Herramientas disponibles:
 
