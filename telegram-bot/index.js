@@ -487,20 +487,20 @@ bot.on('text', async (ctx, next) => {
 // URL RAW de la imagen oficial OFFICIALT.png en GitHub
 const HACKER_IMG_URL = 'https://raw.githubusercontent.com/Spawner-id/Credit-Cart-Gen-Luhn/refs/heads/main/telegram-bot/1748122517953.jpg';
 
-const toolsBlock = `🛠 Herramientas disponibles:
+const toolsBlock = `🛠 Available Tools:
 
-Generación y Consultas:
-• /gen BIN|MM|YYYY|CVV - Genera tarjetas 💳
-• /bin BIN - Consulta BIN 🔍
-• /ip <IP> - Consulta IP y riesgo 🌐
-• /cedula <número> - Consulta SRI por cédula 🪪
-• /placa <número> - Consulta datos de vehículo 🚗
+GCC GEN:
+• /gen BIN|MM|YYYY|CVV - Generate Cards 💳
+• /bin BIN - Check BIN 🔍
+• /ip <IP> - Check IP 🌐
+• /cedula <number> - the SRI (Spanish National Identity Card)🪪
+• /placa <number> - Check plate number 🚗
 
-Correo Temporal:
-• /mail - Genera correo temporal 📧
-• /check - Verifica mensajes del correo 📨
+CTEMP MAIL:
+• /mail - Generate a temporary mail 📧
+• /check - Check mails 📨
 
-Favoritos:
+FFAVORITES:
 • /favoritos - Tus BINs favoritos ⭐️
 • /agregarbin BIN mes año cvv - Agrega BIN a favoritos ➕
 • /eliminarbin <índice> - Elimina BIN de favoritos 🗑
